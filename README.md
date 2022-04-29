@@ -1,14 +1,14 @@
 # **POLINDROME NUMBERS**
 
-# Information
+## INFORMATION
 
 * **Program to check if a given number is a palindrome.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **temp**, **number**, **reversenumber** and **lastnumber** are defined with int.
 
@@ -16,9 +16,7 @@
 
 * The browser class is defined to receive values ​​from the user.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
